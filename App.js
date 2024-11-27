@@ -10,7 +10,11 @@ const DATA = [
     location: 'New York', 
     description: 'This luxury apartment offers stunning panoramic views of the New York skyline. It features modern amenities, including a fully equipped kitchen and spacious living areas. Ideal for anyone looking to enjoy the best of city living.', 
     bedrooms: 3, 
-    bathrooms: 2, 
+    bathrooms: 2,
+    yearBuilt: 2015, // Year the property was built
+    squareFootage: '1,800 sqft', // Square footage
+    amenities: "Gym, Concierge Service, Rooftop Pool", // Amenities
+    parking: '2 car garage', // Parking availability
     images: [
       'https://cdn.pixabay.com/photo/2023/01/10/20/56/nyc-7710506_1280.jpg',
       'https://cdn.pixabay.com/photo/2016/11/22/23/38/apartment-1851201_1280.jpg',
